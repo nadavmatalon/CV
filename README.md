@@ -1,6 +1,6 @@
 
 <div class='page-title'>
-	<p color='blue' >Nadav Matalon</p>
+	<p style="color:'blue';" >Nadav Matalon</p>
 	<p class='name-subtitle'>CV</p>
 </div>
 
