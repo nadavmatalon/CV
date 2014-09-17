@@ -1,3 +1,4 @@
+<pre>
 <style>
 	.page-title {
        	text-align: center;
@@ -51,7 +52,7 @@
      	margin-top: 0px !important;
      	margin-bottom: 4px !important;
    	}
-        .code-examples-content {
+    .code-examples-content {
       	font-size: 15px;
       	letter-spacing: 0.5px;
       	padding-left: 16px;
@@ -110,4 +111,4 @@
 
     <p class='code-example'>Makers Chitter</p>
 </div>
-
+</pre>
