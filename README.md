@@ -38,7 +38,7 @@ ___
 
 [Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
 
-A search-engine web app for [Github](http://github.com) users, written in
+__Search-engine web app__ for [Github](http://github.com) users, written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
@@ -52,7 +52,7 @@ ___
 
 [Live on Github.io](http://nadavmatalon.github.io/tic-tac-toe/)  |  [Github Repo](https://github.com/nadavmatalon/tic-tac-toe)
 
-Web implementation of the childrens' game __Tic-Tac-Toe__ written in
+Web implementation of the popular childrens' game __Tic-Tac-Toe__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
@@ -79,7 +79,7 @@ ___
 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [JSON](http://json.org/) 
-implementation of a simple thermostat interface simulator built 
+implementation of a simple __thermostat interface simulator__ built 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)), 
 and coupled with a local temperature indicator based on 
@@ -91,7 +91,7 @@ ___
 
 [Live on Heroku](http://github-profiler.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/github-profiler)
 
-Web app for browsing and storing profiles of [Github](http://www.github.com) users, 
+Web app for __browsing and storing profiles__ of [Github](http://www.github.com) users, 
 built with [Rails 4](http://rubyonrails.org) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info) 
@@ -115,8 +115,8 @@ A [Sinatra](http://www.sinatrarb.com/)-based web app, written in
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)), which enables registered users 
-to create links (or 'bookmarks') to various websites, save them to a 
-[PostgreSQL](http://www.postgresql.org) database, as well as categorize them 
+to __create links__ (or 'bookmarks') to various websites, __save them__ to a 
+[PostgreSQL](http://www.postgresql.org) database, as well as __categorize them__ 
 according to tags.
 
 ___
@@ -125,7 +125,7 @@ ___
 
 [Live on Heroku](http://makers-chitter.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/chitter)
 
-An instant messaging web app written in 
+An __instant messaging web app__ written in 
 [Ruby](https://www.ruby-lang.org/en/) &amp; 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
