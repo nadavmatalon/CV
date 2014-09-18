@@ -214,9 +214,10 @@ agile methodology
     aimed at developing participants teaching skills
 
 
-####Internationally Certified Karate Instructor, 2004&mdash;Present 
-  - 2nd Dan International Black Belt in Karate
-
+####Certified Karate Instructor, 2004&mdash;Present 
+#####International School of Martial Arts Karate Do, International Budo Academy
+  - 2nd Dan Black Belt in Karate (Shito-Rio Style)
+  - Member of Dai Nippon Butoku Kai
 
 
 ##Additional Experience
