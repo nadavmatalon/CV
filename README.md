@@ -55,7 +55,7 @@ and uses [Angular](https://angularjs.org/) for front-end rendering.
 Web implementation of the childrens' game __Tic-Tac-Toe__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
-[TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
+[TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)).
 
 ====
