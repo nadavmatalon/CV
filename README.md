@@ -163,7 +163,7 @@ agile methodology
     * Managed tasks, budgets, resources and delivery timelines
     * Led usability tests and UI design
 
-####Co-Founder & COO, Manabel Real-Estate Ltd, Israel, 1995-2000
+####Co-Founder & COO, Manabel Real-Estate Ltd, Israel, 1995&mdash;2000
 #####Real-estate renovation, new construction projects and property management services
 * __Operations Management:__ Played a key role in building the company’s $110m 
   real-estate management portfolio. Established and co-managed Blue Kohinoor, 
@@ -173,6 +173,16 @@ agile methodology
   Responsibilities included: writing business plans, presenting to shareholders 
   and investors, liaising with clients, managing budgets and timelines, 
   forming  and leading professional teams
+
+
+##Professional Training
+
+####Makers Academy, London, UK, May&mdash;August 2014
+#####Web Development Bootcamp:
+  - Highly selective 12 week full-time course
+  - Ruby, object oriented programming and software design
+  - Full stack web development
+  - Pair programming and teamwork
 
 
 
