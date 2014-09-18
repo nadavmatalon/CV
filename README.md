@@ -10,19 +10,20 @@ CV
 * [Education](#education)
 * [Key Skills](#)
 
-###About Me
 ----
+
+###About Me
+====
+
 Creative project and product manager with excellent leadership and communication 
 skills and over 10 years of management and entrepreneurial experience. 
 Proven track record in delivering results in complex projects, problem solving 
 and innovation strategy.
 
-====
-
+----
 
 ###Code Examples
-
-----
+====
 
 ####Battleships Web
 
@@ -35,13 +36,14 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)).
 
-----
+====
+
 
 ####Github Search
 
 [Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
 
-A search-engine web appfor [Github](http://github.com) users, written in
+A search-engine web app for [Github](http://github.com) users, written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
@@ -49,7 +51,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 The app gathers information via [Github's API](https://developer.github.com/v3/), 
 and uses [Angular](https://angularjs.org/) for front-end rendering.
 
-----
+====
 
 ####Tic • Tac • Toe
 
@@ -61,7 +63,7 @@ Web implementation of the childrens' game __Tic-Tac-Toe__ written in
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
-----
+====
 
 ####Rock • Paper • Scissors • Lizard • Spock
 
@@ -74,7 +76,7 @@ game of __Rock-Paper-Scissors__ written in
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
-----
+====
 
 ####Thermostat
 
@@ -88,7 +90,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 and coupled with a local temperature indicator based on 
 [OpenWeatherMap's API](http://openweathermap.org/)).
 
-----
+====
 
 ####Github Profiler
 
@@ -108,7 +110,7 @@ The app implements a
 [Bootstrap](http://getbootstrap.com), 
 and [Octokit](https://github.com/octokit/octokit.rb).
 
-----
+====
 
 ####Bookmark Manager
 
@@ -125,7 +127,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)).
 
-----
+====
 
 ####Chitter
 
