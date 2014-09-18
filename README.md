@@ -190,20 +190,17 @@ agile methodology
 ##Education
 
 ####Ph.D. Studies In Philosophy, King's College London, UK, 2008&mdash;2011
-#####Department of Philosophy
   - AVI Scholarship (2008, 2009)
   - "The Riddle of Dreams", Philosophical Psychology (published: 23 March 2011)
   - Editorial Board, Spontaneous Generations: A Journal for the History and Philosophy 
     of Science
 
 ####M.A. in Philosophy, Summa Cum Laude, Tel Aviv University, Israel, 2004&mdash;2008
-#####Department of Philosophy
   - Thesis: "Freud's Myth: Wittgenstein on Dreams and Their Interpretation in Freudian
     Psychoanalysis"
   - Posis Scholarship (2006, 2007)
 
 ####B.A. in Philosophy, Magna Cum Laude, Tel Aviv University, Israel, 2000&mdash;2004
-#####Department of Philosophy
   - Of 1% chosen for the Single-Track Programme for Outstanding Students
   - Honorary Dean's List, Faculty of Humanities (2003)
   - Damlin Scholarship (2002)
