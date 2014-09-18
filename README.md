@@ -32,7 +32,7 @@ Web implementation of the game of __Battleships__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info/) &amp; 
-[Capybara](https://github.com/jnicklas/capybara)).
+[Capybara](https://github.com/jnicklas/capybara)).  
 ====
 
 ####Github Search
@@ -45,7 +45,7 @@ A search-engine web app for [Github](http://github.com) users, written in
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 The app gathers information via [Github's API](https://developer.github.com/v3/), 
-and uses [Angular](https://angularjs.org/) for front-end rendering.
+and uses [Angular](https://angularjs.org/) for front-end rendering.  
 ====
 
 ####Tic • Tac • Toe
@@ -56,7 +56,7 @@ Web implementation of the childrens' game __Tic-Tac-Toe__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
-(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
+(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)).  
 ====
 
 ####Rock • Paper • Scissors • Lizard • Spock
@@ -68,7 +68,7 @@ game of __Rock-Paper-Scissors__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
-(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
+(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)).  
 ====
 
 ####Thermostat
@@ -81,7 +81,7 @@ implementation of a simple thermostat interface simulator built
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)), 
 and coupled with a local temperature indicator based on 
-[OpenWeatherMap's API](http://openweathermap.org/)).
+[OpenWeatherMap's API](http://openweathermap.org/)).  
 ====
 
 ####Github Profiler
@@ -92,7 +92,7 @@ Web app for browsing and storing profiles of [Github](http://www.github.com) use
 built with [Rails 4](http://rubyonrails.org) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info) 
-&amp; [Capibara](https://github.com/jnicklas/capybara)), 
+&amp; [Capibara](https://github.com/jnicklas/capybara)).
 
 The app implements a 
 [PostgreSQL](http://www.postgresql.org) database,  
@@ -100,7 +100,7 @@ The app implements a
 [Omniauth2](https://github.com/intridea/omniauth), 
 [Devise](https://github.com/plataformatec/devise), 
 [Bootstrap](http://getbootstrap.com), 
-and [Octokit](https://github.com/octokit/octokit.rb).
+and [Octokit](https://github.com/octokit/octokit.rb).  
 ====
 
 ####Bookmark Manager
@@ -116,7 +116,7 @@ The app was written in
 [Ruby](https://www.ruby-lang.org/en/) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info/) &amp; 
-[Capybara](https://github.com/jnicklas/capybara)).
+[Capybara](https://github.com/jnicklas/capybara)).  
 ====
 
 ####Chitter
