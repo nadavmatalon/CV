@@ -32,7 +32,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)).
 
-====
+___
 
 ####Github Search
 
