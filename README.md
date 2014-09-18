@@ -10,7 +10,7 @@
 
 
 
-###About Me
+##About Me
 
 Creative project and product manager with excellent leadership and communication 
 skills and over 10 years of management and entrepreneurial experience. 
@@ -19,7 +19,7 @@ and innovation strategy.
 
 
 
-###Code Examples
+##Code Examples
 
 ####Battleships Web
 
