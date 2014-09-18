@@ -217,7 +217,7 @@ agile methodology
 ####Certified Karate Instructor, 2004&mdash;Present 
 #####International School of Martial Arts Karate Do, International Budo Academy
   - 2nd Dan Black Belt in Karate (Shito-Rio Style)
-  - Member of Dai Nippon Butoku Kai
+  - Member of _Dai Nippon Butoku Kai_
 
 
 ##Additional Experience
@@ -247,12 +247,12 @@ agile methodology
   - Editorial Board, Spontaneous Generations: A Journal for the History and Philosophy 
     of Science
 
-####M.A. in Philosophy, Summa Cum Laude, Tel Aviv University, 2004&mdash;2008
+####M.A. in Philosophy, _Summa Cum Laude_, Tel Aviv University, 2004&mdash;2008
   - Thesis: "Freud's Myth: Wittgenstein on Dreams and Their Interpretation in Freudian
     Psychoanalysis"
   - Posis Scholarship (2006, 2007)
 
-####B.A. in Philosophy, Magna Cum Laude, Tel Aviv University, 2000&mdash;2004
+####B.A. in Philosophy, _Magna Cum Laude_, Tel Aviv University, 2000&mdash;2004
   - Of 1% chosen for the Single-Track Programme for Outstanding Students
   - Honorary Dean's List, Faculty of Humanities (2003)
   - Damlin Scholarship (2002)
