@@ -137,20 +137,19 @@ The app was built with [Sinatra](http://www.sinatrarb.com/) and utilizes
 [Bcrypt](https://github.com/codahale/bcrypt-ruby) to securly store only 
 the digests of users' passwords.
 
-====
+___
+
 
 ##Professional Experience
 
-####Freelance Consultant (2011 - Present)
+####Freelance Consultant, 2011 - Present
 #####Product management at Softron Solutions Ltd. for an m-commerce startup 
 
-#####University College London, Department of Hebrew and Jewish Studies
-####Teaching Fellow: 2010-2011
+####Teaching Fellow, University College London, Department of Hebrew and Jewish Studies, 2010-2011
 * Teaching Hebrew courses while working on my Ph.D. at King’s College London
 * Associate of the UK Higher Education Academy (AHEA)
 
-#####M.T.O.T. Insight Ltd, Israel 
-####Co-Founder & COO: 2000-2008
+####Co-Founder & COO, M.T.O.T. Insight Ltd, Israel, 2000-2008
 #####Change and innovation consulting services & software products
 
 * __Operations Management:__ Directed contracts with government agencies and security 
@@ -165,8 +164,7 @@ agile methodology
     * Managed tasks, budgets, resources and delivery timelines
     * Led usability tests and UI design
 
-###Manabel Real-Estate Ltd, Israel
-####Co-Founder & COO: 1995-2000
+####Co-Founder & COO, Manabel Real-Estate Ltd, Israel, 1995-2000
 #####Real-estate renovation, new construction projects and property management services
 * __Operations Management:__ 
     * Played a key role in building the company’s $110m real-estate management portfolio. 
