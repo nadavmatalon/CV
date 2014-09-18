@@ -140,15 +140,15 @@ ___
 
 ##Professional Experience
 
-####Freelance Consultant, 2011 - Present
+####Freelance Consultant, 2011&mdash;Present
 * Product management at Softron Solutions Ltd. for an m-commerce startup 
 
-####Teaching Fellow, University College London, 2010-2011
+####Teaching Fellow, University College London, 2010&mdash;2011
 #####Department of Hebrew and Jewish Studies
 * Teaching Hebrew courses while working on my Ph.D. at King’s College London
 * Associate of the UK Higher Education Academy (AHEA)
 
-####Co-Founder & COO, M.T.O.T. Insight Ltd, Israel, 2000-2008
+####Co-Founder & COO, M.T.O.T. Insight Ltd, Israel, 2000&mdash;2008
 #####Change and innovation consulting services & software products
 
 * __Operations Management:__ Directed contracts with government agencies and security 
@@ -178,7 +178,7 @@ agile methodology
 ##Professional Training
 
 ####Makers Academy, London, UK, May&mdash;August 2014
-#####Web Development Bootcamp:
+#####Web Development Bootcamp
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
   - Full stack web development
@@ -187,6 +187,27 @@ agile methodology
 
 
 
+##Education
+
+####Ph.D. Studies In Philosophy, King's College London, UK, 2008&mdash;2011
+#####Department of Philosophy
+  - AVI Scholarship (2008, 2009)
+  - "The Riddle of Dreams", Philosophical Psychology (published: 23 March 2011)
+  - Editorial Board, Spontaneous Generations: A Journal for the History and Philosophy 
+    of Science
+
+####M.A. in Philosophy, Summa Cum Laude, Tel Aviv University, Israel, 2004&mdash;2008
+#####Department of Philosophy
+  - Thesis: "Freud's Myth: Wittgenstein on Dreams and Their Interpretation in Freudian
+    Psychoanalysis"
+  - Posis Scholarship (2006, 2007)
+
+####B.A. in Philosophy, Magna Cum Laude, Tel Aviv University, Israel, 2000&mdash;2004
+#####Department of Philosophy
+  - Of 1% chosen for the Single-Track Programme for Outstanding Students
+  - Honorary Dean's List, Faculty of Humanities (2003)
+  - Damlin Scholarship (2002)
+  - Atia &amp; Gordin Scholarship (2004)
 
 
 
