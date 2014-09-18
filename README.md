@@ -8,7 +8,6 @@
 * [Education](#education)
 * [Key Skills](#)
 
-====
 
 ##About Me
 
@@ -17,7 +16,6 @@ skills and over 10 years of management and entrepreneurial experience.
 Proven track record in delivering results in complex projects, problem solving 
 and innovation strategy.
 
-====
 
 ##Code Examples
 
@@ -166,16 +164,14 @@ agile methodology
 
 ####Co-Founder & COO, Manabel Real-Estate Ltd, Israel, 1995-2000
 #####Real-estate renovation, new construction projects and property management services
-* __Operations Management:__ 
-    * Played a key role in building the company’s $110m real-estate management portfolio. 
-    *  Established and co-managed Blue Kohinoor, a $17m investment fund that purchased and 
-       restored historical properties  via combination deals. 
-    * Managed the company’s P&L, logistics and procurement 
-* __Project Management:__ 
-    * Led 6 new construction/major renovation projects of $35m. 
-    * Responsibilities included: writing business plans, presenting to shareholders 
-       and investors, liaising with clients, managing budgets and timelines, 
-       forming  and leading professional teams
+* __Operations Management:__ Played a key role in building the company’s $110m 
+  real-estate management portfolio. Established and co-managed Blue Kohinoor, 
+  a $17m investment fund that purchased and restored historical properties  via 
+  combination deals. Managed the company’s P&L, logistics and procurement 
+* __Project Management:__ Led 6 new construction/major renovation projects of $35m. 
+  Responsibilities included: writing business plans, presenting to shareholders 
+  and investors, liaising with clients, managing budgets and timelines, 
+  forming  and leading professional teams
 
 
 
