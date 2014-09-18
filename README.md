@@ -188,9 +188,9 @@ agile methodology
 
 ##Additional Experience
 
-####Founder &amp; Chief Karate Instructor, Shirokan Dojo, Givataim Branch, Israel, 2005&mdash;2008
-  - Founded and scaled training centre to 45 registered students ranging from beginners 
-    to black belts
+####Founder &amp; Chief Karate Instructor, Shirokan Dojo: Givataim Branch, 2005&mdash;2008
+  - Founded and scaled training centre to 45 registered students with levels 
+    ranging from beginners to black belts
   - Managed online and direct marketing campaigns
 
 
