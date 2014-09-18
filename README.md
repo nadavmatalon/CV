@@ -143,8 +143,8 @@ ___
 ####Freelance Consultant, 2011 - Present
 * Product management at Softron Solutions Ltd. for an m-commerce startup 
 
-####Teaching Fellow, University College London
-#####Department of Hebrew and Jewish Studies, 2010-2011
+####Teaching Fellow, University College London, 2010-2011
+#####Department of Hebrew and Jewish Studies
 * Teaching Hebrew courses while working on my Ph.D. at King’s College London
 * Associate of the UK Higher Education Academy (AHEA)
 
