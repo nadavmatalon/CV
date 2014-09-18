@@ -17,11 +17,11 @@ skills and over 10 years of management and entrepreneurial experience.
 Proven track record in delivering results in complex projects, problem solving 
 and innovation strategy.
 
-
+====
 
 ##Code Examples
 
-####Battleships Web
+#####Battleships Web
 
 [Live on Heroku](http://battleships-web.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/battleships_web)
 
@@ -34,7 +34,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 
 ___
 
-####Github Search
+#####Github Search
 
 [Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
 
@@ -48,7 +48,7 @@ and uses [Angular](https://angularjs.org/) for front-end rendering.
 
 ___
 
-####Tic • Tac • Toe
+#####Tic • Tac • Toe
 
 [Live on Github.io](http://nadavmatalon.github.io/tic-tac-toe/)  |  [Github Repo](https://github.com/nadavmatalon/tic-tac-toe)
 
@@ -60,7 +60,7 @@ Web implementation of the popular childrens' game __Tic-Tac-Toe__ written in
 
 ___
 
-####Rock • Paper • Scissors • Lizard • Spock
+#####Rock • Paper • Scissors • Lizard • Spock
 
 [Live on Github.io](http://nadavmatalon.github.io/rock-paper-scissors-lizard-spock/)  |  [Github Repo](https://github.com/nadavmatalon/rock-paper-scissors-lizard-spock)
 
@@ -73,7 +73,7 @@ game of __Rock-Paper-Scissors__ written in
 
 ___
 
-####Thermostat
+#####Thermostat
 
 [Live on Github.io](http://nadavmatalon.github.io/thermostat/)  |  [Github Repo](https://github.com/nadavmatalon/thermostat)
 
@@ -87,7 +87,7 @@ and coupled with a local temperature indicator based on
 
 ___
 
-####Github Profiler
+#####Github Profiler
 
 [Live on Heroku](http://github-profiler.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/github-profiler)
 
@@ -106,7 +106,7 @@ and [Octokit](https://github.com/octokit/octokit.rb).
 
 ___
 
-####Bookmark Manager
+#####Bookmark Manager
 
 [Live on Heroku](http://makers-bookmark-manager.herokuapp.com/)  |  [Github Repo](https://github.com/nadavmatalon/bookmark-manager)
 
@@ -121,7 +121,7 @@ according to tags.
 
 ___
 
-####Chitter
+#####Chitter
 
 [Live on Heroku](http://makers-chitter.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/chitter)
 
