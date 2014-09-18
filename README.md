@@ -7,6 +7,7 @@
 * [Professional Training](#professional-training)
 * [Additional Experience](#additional-experience)
 * [Education](#education)
+* [Contact Me](#contact-me)
 
 
 ##About Me
@@ -185,6 +186,38 @@ agile methodology
   - Pair programming and teamwork
 
 
+####Proofreading Diploma, Merit, October 2012&mdash;July 2013
+#####The Publishing Training Centre
+  - Intensive 9 months distant learning course 
+  - Member of the Society for Editors and Proofreaders (SfEP)
+
+
+####Proofreading Progress, October 2013
+#####Society for Editors and Proofreaders (SfEP)
+  - One day follow-up course to enhance proofreading skills
+
+
+####Introduction to Copy-Editing, September 2013
+#####Society for Editors and Proofreaders (SfEP)
+  - One day course on the basics of copy-editing
+
+
+####Postgraduate Certificate in Academic Practice in Higher Education (PCAPHE), November 2009&mdash;April 2012
+#####King's Learning Institute, King's College London
+  - A two years and a half part-time programme 
+  - Associate of the Higher Education Academy (AHEA)
+
+
+####Graduate Certificate in Academic Practice (GCAP), June 2009
+#####King's Learning Institute, King's College London
+  - A two-day practical course for PhD students and memebrs of staff
+    aimed at developing participants teaching skills
+
+
+####Internationally Certified Karate Instructor, 2004&mdash;Present 
+  - 2nd Dan International Black Belt in Karate
+
+
 
 ##Additional Experience
 
@@ -224,6 +257,10 @@ agile methodology
   - Damlin Scholarship (2002)
   - Atia &amp; Gordin Scholarship (2004)
 
+
+##Contact Me
+
+Email: nadav.matalon@gmail.com
 
 
 
