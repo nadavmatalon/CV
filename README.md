@@ -141,7 +141,7 @@ ___
 ##Professional Experience
 
 ####Freelance Consultant, 2011 - Present
-#####Product management at Softron Solutions Ltd. for an m-commerce startup 
+* Product management at Softron Solutions Ltd. for an m-commerce startup 
 
 ####Teaching Fellow, University College London, Department of Hebrew and Jewish Studies, 2010-2011
 * Teaching Hebrew courses while working on my Ph.D. at King’s College London
