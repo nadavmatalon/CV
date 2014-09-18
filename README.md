@@ -132,11 +132,10 @@ An instant messaging web app written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info/) &amp; 
-[Capybara](https://github.com/jnicklas/capybara)).
-
-The app was built with [Sinatra](http://www.sinatrarb.com/). It utilizes 
+[Capybara](https://github.com/jnicklas/capybara)). 
+The app was built with [Sinatra](http://www.sinatrarb.com/) and utilizes 
 [Datamapper](http://datamapper.org/) to access a 
-[PostgreSQL](http://www.postgresql.org/) database, and 
+[PostgreSQL](http://www.postgresql.org/) database, as well as  
 [bcrypt](https://github.com/codahale/bcrypt-ruby) to securly store only 
 the digests of users' passwords.
 
