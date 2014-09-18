@@ -38,7 +38,7 @@ ___
 
 [Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
 
-__Search-engine web app__ for [Github](http://github.com) users, written in
+__Search-engine__ web app for [Github](http://github.com) users, written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
