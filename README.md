@@ -196,13 +196,13 @@ agile methodology
 
 ####Teaching Positions
   - __Teaching Tutor__, King’s College London, UK, 2009&mdash;2010  
-    Undergraduate, 10-15 students/class
+    Undergraduate | 10-15 students/class
   - __Lecturer__, Youth University, Tel Aviv University, Israel, 2007&mdash;2008  
-    Students aged 12-17, 30-40 students/class
+    Students aged 12-17 | 30-40 students/class
   - __Teaching Assistant__, Interdisciplinary Center (IDC), Israel, 2006&mdash;2008  
-    Undergraduate, 100-120 students/class 
+    Undergraduate | 100-120 students/class 
   - __Teaching Assistant__, Tel Aviv University, Israel, 2005&mdash;2008  
-    Undergraduate, 25-35 students/class
+    Undergraduate | 25-35 students/class
 
 
 ##Education
