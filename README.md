@@ -19,11 +19,11 @@ and innovation strategy.
 
 ###Code Examples
 
-#####Battleships Web
+####Battleships Web
 
 [Live on Heroku](http://battleships-web.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/battleships_web)
 
-The game of __Battleships__ written in 
+A web implementation of the game of __Battleships__ written in 
 [Ruby](https://www.ruby-lang.org/en/) &amp; 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
@@ -31,42 +31,57 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 [Capybara](https://github.com/jnicklas/capybara)).
 
 
-#####Tic • Tac • Toe
+####Github Search
+
+[Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
+
+A search-engine web app for [Github](http://github.com) users, written in
+[JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
+[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
+according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
+(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
+
+The app gathers information via [Github's API](https://developer.github.com/v3/), 
+and uses [Angular](https://angularjs.org/) for front-end rendering.
+
+
+####Tic • Tac • Toe
 
 [Live on Github.io](http://nadavmatalon.github.io/tic-tac-toe/)  |  [Github Repo](https://github.com/nadavmatalon/tic-tac-toe)
 
-This game of __Tic • Tac • Toe__ written in
+A web implementation of the childrens' game __Tic-Tac-Toe__ written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
 
-#####Rock • Paper • Scissors • Lizard • Spock
+####Rock • Paper • Scissors • Lizard • Spock
 
 [Live on Github.io](http://nadavmatalon.github.io/rock-paper-scissors-lizard-spock/)  |  [Github Repo](https://github.com/nadavmatalon/rock-paper-scissors-lizard-spock)
 
-A slightly more sophisticated version of the game of __Rock • Paper • Scissors__ 
-written in 
+A web implementation of a slightly more sophisticated version of the 
+game of __Rock-Paper-Scissors__ written in 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
 
-#####Thermostat
+####Thermostat
 
 [Live on Github.io](http://nadavmatalon.github.io/thermostat/)  |  [Github Repo](https://github.com/nadavmatalon/thermostat)
 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [JSON](http://json.org/) 
-implementation of a simple thermostat interface simulator, coupled with a local temperature 
-indicator (utilizing [OpenWeatherMap's API](http://openweathermap.org/)), and built 
+implementation of a simple thermostat interface simulator built 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
-(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
+(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)), 
+and coupled with a local temperature indicator based on 
+[OpenWeatherMap's API](http://openweathermap.org/)).
 
 
-#####Github Profiler
+####Github Profiler
 
 [Live on Heroku](http://github-profiler.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/github-profiler)
 
@@ -85,7 +100,7 @@ The app implements a
 and [Octokit](https://github.com/octokit/octokit.rb).
 
 
-#####Bookmark Manager
+####Bookmark Manager
 
 [Live on Heroku](http://makers-bookmark-manager.herokuapp.com/)  |  [Github Repo](https://github.com/nadavmatalon/bookmark-manager)
 
@@ -101,7 +116,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 [Capybara](https://github.com/jnicklas/capybara)).
 
 
-#####Chitter
+####Chitter
 
 [Live on Heroku](http://makers-chitter.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/chitter)
 
@@ -119,17 +134,5 @@ The app was built with [Sinatra](http://www.sinatrarb.com/). It utilizes
 the digests of users' passwords.
 
 
-#####Github Search
-
-[Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
-
-A search-engine web app for [Github](http://github.com) users, written in
-[JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
-[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
-according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
-(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
-
-The app gathers information via [Github's API](https://developer.github.com/v3/), 
-and uses [Angular](https://angularjs.org/) for front-end rendering.
 
 
