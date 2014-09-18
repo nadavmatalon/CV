@@ -95,10 +95,9 @@ Web app for browsing and storing profiles of [Github](http://www.github.com) use
 built with [Rails 4](http://rubyonrails.org) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info) 
-&amp; [Capibara](https://github.com/jnicklas/capybara)).
-
+&amp; [Capibara](https://github.com/jnicklas/capybara)). 
 The app implements a 
-[PostgreSQL](http://www.postgresql.org) database,  
+[PostgreSQL](http://www.postgresql.org) database, 
 [jQuery](http://jquery.com), [Angular](https://angularjs.org) functionality, 
 [Omniauth2](https://github.com/intridea/omniauth), 
 [Devise](https://github.com/plataformatec/devise), 
