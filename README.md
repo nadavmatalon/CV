@@ -5,8 +5,8 @@
 * [Code Examples](#code-examples)
 * [Professional Experience](#professional-experience)
 * [Professional Training](#professional-training)
+* [Additional Experience](#additional-experience)
 * [Education](#education)
-* [Key Skills](#)
 
 
 ##About Me
@@ -159,7 +159,7 @@ Managed the company’s accounts and P&L,  and submitted trademark and patent 
 Helix System®  and Hydra System®, from concept through all life cycle stages using 
 agile methodology
     * Defined product requirements for information sharing, ideas development 
-       and collaboration tools 
+      and collaboration tools 
     * Managed tasks, budgets, resources and delivery timelines
     * Led usability tests and UI design
 
@@ -185,6 +185,24 @@ agile methodology
   - Pair programming and teamwork
 
 
+
+##Additional Experience
+
+####Founder &amp; Chief Karate Instructor, Shirokan Dojo, Givataim Branch, Israel, 2005&mdash;2008
+  - Founded and scaled training centre to 45 registered students ranging from beginners 
+    to black belts
+  - Managed online and direct marketing campaigns
+
+
+####Teaching Positions
+  - __Teaching Tutor__, King’s College London, UK (undergraduate, 
+    10-15 students/class), 2009&mdash;10
+  - __Lecturer__,Youth University, Tel Aviv University, Israel (ages 12-17, 
+    30-40 students/class), 2007&mdash;08
+  - __TeachingAssistant__,Interdisciplinary Center (IDC), Israel 
+    (undergraduate, 100-120 students/class), 2006&mdash;08
+  - __Teaching Assistant__, Tel Aviv University, Israel 
+    (undergraduate, 25-35 students/class), 2005&mdash;08
 
 
 ##Education
