@@ -110,16 +110,14 @@ ___
 
 [Live on Heroku](http://makers-bookmark-manager.herokuapp.com/)  |  [Github Repo](https://github.com/nadavmatalon/bookmark-manager)
 
-A [Sinatra](http://www.sinatrarb.com/) web app that enables registered users 
-to create links (or 'bookmarks') to various websites, save them to a 
-[PostgreSQL](http://www.postgresql.org) database, as well as categorize them 
-according to tags.
-
-The app was written in 
+A [Sinatra](http://www.sinatrarb.com/)-based web app, written in 
 [Ruby](https://www.ruby-lang.org/en/) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Rspec](http://rspec.info/) &amp; 
-[Capybara](https://github.com/jnicklas/capybara)).
+[Capybara](https://github.com/jnicklas/capybara)), which enables registered users 
+to create links (or 'bookmarks') to various websites, save them to a 
+[PostgreSQL](http://www.postgresql.org) database, as well as categorize them 
+according to tags.
 
 ___
 
