@@ -30,7 +30,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)).
 
-<br/><br/>
+<br/>
 
 ####Github Search
 
@@ -44,7 +44,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 The app gathers information via [Github's API](https://developer.github.com/v3/), 
 and uses [Angular](https://angularjs.org/) for front-end rendering.
 
-<br/><br/>
+<br/>
 
 ####Tic • Tac • Toe
 
@@ -56,7 +56,7 @@ Web implementation of the childrens' game __Tic-Tac-Toe__ written in
 [TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
-<br/><br/>
+<br/>
 
 ####Rock • Paper • Scissors • Lizard • Spock
 
@@ -66,10 +66,10 @@ A web implementation of a slightly more sophisticated version of the
 game of __Rock-Paper-Scissors__ written in 
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
 [jQuery](http://jquery.com) according to 
-[TDD](http://en.wikipedia.org/wiki/Test-driven_development)  
+[TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
 (testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
 
-<br/><br/>
+<br/>
 
 ####Thermostat
 
@@ -83,7 +83,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 and coupled with a local temperature indicator based on 
 [OpenWeatherMap's API](http://openweathermap.org/)).
 
-<br/><br/>
+<br/>
 
 ####Github Profiler
 
@@ -104,7 +104,7 @@ The app implements a
 and [Octokit](https://github.com/octokit/octokit.rb).
 
 
-<br/><br/>
+<br/>
 
 ####Bookmark Manager
 
@@ -121,7 +121,7 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 (testing with [Rspec](http://rspec.info/) &amp; 
 [Capybara](https://github.com/jnicklas/capybara)).
 
-<br/><br/>
+<br/>
 
 ####Chitter
 
