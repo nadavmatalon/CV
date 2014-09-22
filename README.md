@@ -20,6 +20,19 @@ and innovation strategy.
 
 ##Code Examples
 
+####Sudoku Web
+
+[Live on Heroku](http://makers-sudoku-web.herokuapp.com/)  |  [Github Repo](https://github.com/nadavmatalon/sudoku_web)
+
+Web implementation of the game of __Sudoku__ written in 
+[Ruby](https://www.ruby-lang.org/en/), 
+[JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
+[jQuery](http://jquery.com) 
+according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
+(testing with [Rspec](http://rspec.info/)).
+
+___
+
 ####Battleships Web
 
 [Live on Heroku](http://battleships-web.herokuapp.com)  |  [Github Repo](https://github.com/nadavmatalon/battleships_web)
