@@ -144,11 +144,10 @@ ___
 
 __Search-engine__ web app for [Github](http://github.com) users, written in
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
-[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29).
-
-The app gathers information via [Github API](https://developer.github.com/v3/) 
+[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29), implementing 
+[Github API](https://developer.github.com/v3/) 
 &amp; [OctoKit](https://github.com/octokit/octokit.rb), 
-and uses [Angular](https://angularjs.org/) for front-end rendering.
+and using [Angular](https://angularjs.org/) for front-end rendering.
 
 ___
 
