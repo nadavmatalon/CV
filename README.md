@@ -46,19 +46,6 @@ according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 
 ___
 
-####Github Search
-
-[Live on Github.io](http://nadavmatalon.github.io/github-search/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
-
-__Search-engine__ web app for [Github](http://github.com) users, written in
-[JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
-[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) 
-according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
-(testing with [Jasmine](http://jasmine.github.io/2.0/introduction.html)). 
-The app gathers information via [Github's API](https://developer.github.com/v3/), 
-and uses [Angular](https://angularjs.org/) for front-end rendering.
-
-___
 
 ####Tic • Tac • Toe
 
@@ -148,6 +135,20 @@ The app was built with [Sinatra](http://www.sinatrarb.com/) and utilizes
 [PostgreSQL](http://www.postgresql.org/) database, as well as 
 [Bcrypt](https://github.com/codahale/bcrypt-ruby) to securly store only 
 the digests of users' passwords.
+
+___
+
+####Github Search
+
+[Live on Heroku](http://makers-github-search.herokuapp.com/)  |  [Github Repo](https://github.com/nadavmatalon/github-search)
+
+__Search-engine__ web app for [Github](http://github.com) users, written in
+[JavaScript](http://en.wikipedia.org/wiki/JavaScript) &amp; 
+[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29).
+
+The app gathers information via [Github API](https://developer.github.com/v3/) 
+&amp; [OctoKit](https://github.com/octokit/octokit.rb), 
+and uses [Angular](https://angularjs.org/) for front-end rendering.
 
 ___
 
