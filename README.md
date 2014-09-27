@@ -276,5 +276,3 @@ agile methodology
 
 Email: nadav.matalon@gmail.com
 
-
-
