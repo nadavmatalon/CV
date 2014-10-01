@@ -3,6 +3,7 @@
 
 * [About Me](#about-me)
 * [Code Examples](#code-examples)
+* [Technical Skills](#technical-skills)
 * [Professional Experience](#professional-experience)
 * [Professional Training](#professional-training)
 * [Additional Experience](#additional-experience)
@@ -150,6 +151,53 @@ __Search-engine__ web app for [Github](http://github.com) users, written in
 and using [Angular](https://angularjs.org/) for front-end rendering.
 
 ___
+
+##Technical Skills
+
+* Agile values, principles and practices
+* Object-oriented principles and design
+* Test-driven design
+* Pair-programming
+* Version Control (with git and Github)
+* Ruby 2.1
+* Ruby on Rails 4.1
+* Java
+* Processing 2.0
+* Arduino IDE
+* Homebrew
+* Sinatra
+* PostgreSQL
+* DataMapper
+* ActiveRecord
+* Unit testing with Rspec & Jasmine
+* Integration testing with Capybara & Poltergeist
+* Deployment to Heroku
+* Github.io
+* JavaScript
+* Jquery
+* Jquery UI
+* Ajax
+* HTML5
+* CSS3
+* AngularJS
+* Mustache
+* Sass
+* Bootstrap 3.2
+* API integration (Twillio, Github)
+* Cloud storage (Amazon S3)
+* User authentication (Devise, bcrypt, Omniauth)
+* Active-Admin
+* Paperclip
+* Thin Webserver
+* Sublime Text 3
+* Markdown
+* Photoshop
+* Google SketchUp
+* Inkscape
+* CadSoft Eagle
+* Trello
+* Basecamp
+* Shotgun
 
 
 ##Professional Experience
