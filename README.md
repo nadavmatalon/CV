@@ -17,14 +17,14 @@ I'm a creative project manager with excellent leadership and communication skill
 
 After co-founding two successful companies and acquiring a Master's degree 
 in philosophy, I turned to coding and web-development as new and exciting 
-challenges. 
+challenges.
 
 Through the roller-coaster ride that is [Makers Academy](http://www.makersacademy.com/)'s 
 boot-camp, I was trained as a full-stack developer, learned sound programming 
 principles &amp; methodologies, while significantly expanding my technical 
 skillset.
 
-In my spare time, I love teaching martial-arts, skiing, and designing, building, 
+In my spare time, I love teaching martial-arts, skiing, and designing, building 
 &amp; modding personal computers (from circuit design to water-cooling and 
 everything in between).
 
