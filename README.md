@@ -13,6 +13,8 @@
 
 ##About Me
 
+I'm a creative project manager with excellent leadership and communication skills.
+
 After co-founding two successful companies and acquiring a Master's degree 
 in philosophy, I turned to coding and web-development as new and exciting 
 challenges.
