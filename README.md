@@ -13,10 +13,20 @@
 
 ##About Me
 
-Creative project and product manager with excellent leadership and communication 
-skills and over 10 years of management and entrepreneurial experience. 
-Proven track record in delivering results in complex projects, problem solving 
-and innovation strategy.
+I'm a creative project manager with excellent leadership and communication skills.
+
+After co-founding two successful companies and acquiring a Master's degree 
+in philosophy, I turned to coding and web-development as new and exciting 
+challenges. 
+
+Through the roller-coaster ride that is [Makers Academy](http://www.makersacademy.com/)'s 
+boot-camp, I was trained as a full-stack developer, learned sound programming 
+principles &amp; methodologies, while significantly expanding my technical 
+skillset.
+
+In my spare time, I love teaching martial-arts, skiing, and designing, building, 
+&amp; modding personal computers (from circuit design to water-cooling and 
+everything in between).
 
 
 ##Code Examples
