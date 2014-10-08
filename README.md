@@ -192,7 +192,7 @@ ___
 * Mustache
 * Sass
 * Bootstrap 3.2
-* API integration (Twillio, Github)
+* API integration (Twillio, Github, Gmaps)
 * Cloud storage (Amazon S3)
 * User authentication (Devise, bcrypt, Omniauth)
 * Active-Admin
