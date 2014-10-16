@@ -231,7 +231,7 @@ in the Department of Hebrew and Jewish Studies
 ####Teaching Tutor at King's College London, UK, 2009&mdash;2010
 Teaching undergraduate courses in the Department of Philosophy.
 ￼
-####Co-Founder & COO at MTOT Insight Ltd., ISRAEL 2000&mdash;2008
+####Co-Founder & COO at MTOT Insight Ltd., Israel 2000&mdash;2008
 MTOT Insight (Meta Thinking Operational Tank) develops Ideation software – 
 strategic and operational concept development systems, interoperable with 
 enterprise-wide packaged application software, collaborative working environments 
