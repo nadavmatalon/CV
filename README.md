@@ -213,7 +213,7 @@ ___
 
 ##Professional Experience
 
-####Founder, SnowCrash - Stealth mode startup, 2013&mdash;2014
+####Founder, SnowCrash (Stealth mode startup), 2013&mdash;2014
 * SnowCrash is an initiative aimed at designing and building end-to-end 
   customized personal computers, addressing unique functional requirements – 
   from case modding and hardware configuration, to software command & control 
