@@ -219,8 +219,8 @@ ___
   from case modding and hardware configuration, to software command & control 
   C2) apps.
 
-####UX &amp; Project Manager, UK/Israel, 2011&mdash;2012
-* UX &amp; Project management at Softron Solutions Ltd. for an m-commerce startup 
+####QA &amp; Project Manager, UK/Israel, 2011&mdash;2012
+* QA &amp; Project management at Softron Solutions Ltd. for an m-commerce startup 
 
 ####Teaching Fellow, University College London, UK, 2010&mdash;2011
 #####Department of Hebrew and Jewish Studies
@@ -299,7 +299,7 @@ ___
 
 ##Education
 
-####Ph.D. Studies In Philosophy, King's College London, 2008&mdash;2011
+####Ph.D. Studies in Philosophy, King's College London, 2008&mdash;2011
   - AVI Scholarship (2008, 2009)
   - "The Riddle of Dreams", Philosophical Psychology (published: 23 March 2011)
   - Editorial Board, Spontaneous Generations: A Journal for the History and Philosophy 
