@@ -222,7 +222,7 @@ ___
 ####UX &amp; Project Manager, UK/Israel, 2011&mdash;2012
 * UX &amp; Project management at Softron Solutions Ltd. for an m-commerce startup 
 
-####Teaching Fellow, University College London, 2010&mdash;2011
+####Teaching Fellow, University College London, UK, 2010&mdash;2011
 #####Department of Hebrew and Jewish Studies
 * Teaching Hebrew courses while working on my Ph.D. at King’s College London
 * Associate of the UK Higher Education Academy (AHEA)
@@ -230,28 +230,8 @@ ___
 ####Co-Founder & COO, M.T.O.T. Insight Ltd, Israel, 2000&mdash;2008
 #####Change and innovation consulting services & software products
 
-* __Operations Management:__ Directed contracts with government agencies and security 
-institutions across  North America, Eastern Europe, Asia and the Middle East. 
-Managed the company’s accounts and P&L,  and submitted trademark and patent applications
-
-* __Product/Project Management:__ Managed development of company’s software products, 
-Helix System®  and Hydra System®, from concept through all life cycle stages using 
-agile methodology
-    * Defined product requirements for information sharing, ideas development 
-      and collaboration tools 
-    * Managed tasks, budgets, resources and delivery timelines
-    * Led usability tests and UI design
-
-####Co-Founder & COO, Manabel Real-Estate Ltd, Israel, 1995&mdash;2000
-#####Real-estate renovation, new construction projects and property management services
-* __Operations Management:__ Played a key role in building the company’s $110m 
-  real-estate management portfolio. Established and co-managed Blue Kohinoor, 
-  a $17m investment fund that purchased and restored historical properties  via 
-  combination deals. Managed the company’s P&L, logistics and procurement 
-* __Project Management:__ Led 6 new construction/major renovation projects of $35m. 
-  Responsibilities included: writing business plans, presenting to shareholders 
-  and investors, liaising with clients, managing budgets and timelines, 
-  forming  and leading professional teams
+* Change and innovation consulting services & software products. 
+* Supervised Operations Management and Product/Project Management.
 
 
 ##Professional Training
