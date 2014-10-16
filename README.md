@@ -213,8 +213,14 @@ ___
 
 ##Professional Experience
 
-####Freelance Consultant, 2011&mdash;Present
-* Product management at Softron Solutions Ltd. for an m-commerce startup 
+####Founder, SnowCrash - Stealth mode startup, 2013&mdash;2014
+* SnowCrash is an initiative aimed at designing and building end-to-end 
+  customized personal computers, addressing unique functional requirements – 
+  from case modding and hardware configuration, to software command & control 
+  C2) apps.
+
+####UX &amp; Project Manager, UK/Israel, 2011&mdash;2012
+* UX &amp; Project management at Softron Solutions Ltd. for an m-commerce startup 
 
 ####Teaching Fellow, University College London, 2010&mdash;2011
 #####Department of Hebrew and Jewish Studies
