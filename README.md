@@ -272,7 +272,7 @@ ___
     aimed at developing participants teaching skills
 
 
-####Certified Karate Instructor, 2004&mdash;Present 
+####Certified Karate Instructor, 2004
 #####International School of Martial Arts Karate Do, International Budo Academy
   - 2nd Dan Black Belt in Karate (Shito-Rio Style)
   - Member of _Dai Nippon Butoku Kai_
