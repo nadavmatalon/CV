@@ -23,10 +23,6 @@ Through the roller-coaster ride that is [Makers Academy](http://www.makersacadem
 boot-camp, I was trained as a full-stack developer, learned sound programming 
 principles &amp; methodologies, while expanding my technical skillset.
 
-At present, I continue working on the SnowCrash initiative (designing, building, 
-and modding personal computers from circuit design to water-cooling and 
-everything in between). 
-
 In my spare time, I love practicing martial arts, yoga and skiing.
 
 
@@ -213,25 +209,33 @@ ___
 
 ##Professional Experience
 
-####Founder, SnowCrash (Stealth mode startup), 2013&mdash;2014
-* SnowCrash is an initiative aimed at designing and building end-to-end 
-  customized personal computers, addressing unique functional requirements – 
-  from case modding and hardware configuration, to software command & control 
-  C2) apps.
+####FOUNDER AT SNOWCRASH (IN STEALTH), UK, 
+SNOWCRASH is an initiative aimed at designing and building e-to-end customized personal 
+computers, addressing unique functional requirements – from developing the software 
+control applications, to hardware configuration and case modding. As part of the 
+initiative's research phase, the TearDrop customized computer prototype has been developed. 
+Project highlights:
+* Front-end interface written with Processing 2.0 programming language (Java-based)
+* Back-end drivers written in AVR-C programming language (Arduino variant of C)
+* Case Modding design and fabrication
 
-####QA &amp; Project Manager, UK/Israel, 2011&mdash;2012
-* QA &amp; Project management at Softron Solutions Ltd. for an m-commerce startup 
+####QA & PROJECT MANAGER AT SOFTRON SOLUTIONS LTD., UK/ISRAEL, 2011&mdash;2012
+SOFTRON SOLUTIONS develops a white label m-commerce solution for mobile carriers, 
+providing a high conversion rate, scalable, and simply integrated system, delivering 
+targeted deal-of-the-day.
 
-####Teaching Fellow, University College London, UK, 2010&mdash;2011
-#####Department of Hebrew and Jewish Studies
-* Teaching Hebrew courses while working on my Ph.D. at King’s College London
-* Associate of the UK Higher Education Academy (AHEA)
+####TEACHING FELLOW AT UNIVERSITY COLLEGE OF LONDON, UK, 2010&mdash;2011
+Associate of the UK Higher Education Academy (AHEA), teaching language courses 
+in the Department of Hebrew and Jewish Studies
 
-####Co-Founder & COO, M.T.O.T. Insight Ltd, Israel, 2000&mdash;2008
-#####Change and innovation consulting services & software products
-
-* Change and innovation consulting services & software products. 
-* Supervised Operations Management and Product/Project Management.
+####TEACHING TUTOR AT KING'S COLLEGE LONDON, UK, 2009&mdash;2010
+Teaching undergraduate courses in the Department of Philosophy.
+￼
+CO-FOUNDER & COO AT MTOT INSIGHT LTD., ISRAEL 2000&mdash;2008
+MTOT INSIGHT (Meta Thinking Operational Tank) develops Ideation software – 
+strategic and operational concept development systems, interoperable with 
+enterprise-wide packaged application software, collaborative working environments 
+and productivity applications.
 
 
 ##Professional Training
