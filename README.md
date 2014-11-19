@@ -183,6 +183,9 @@ ___
 * JavaScript
 * Jquery
 * Jquery UI
+* Node.js
+* Zombie.js
+* Mocha.js
 * Ajax
 * HTML5
 * CSS3
