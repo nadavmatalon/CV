@@ -13,17 +13,20 @@
 
 ##About Me
 
-I'm a creative project manager with excellent leadership and communication skills.
+Proven track record in delivering results in complex projects, 
+problem solving and innovation strategy.
 
 After co-founding two successful companies and acquiring a Master's degree 
 in philosophy, I turned to coding and web-development as new and exciting 
-challenges.
+challenges. 
 
-Through the roller-coaster ride that is [Makers Academy](http://www.makersacademy.com/)'s 
-boot-camp, I was trained as a full-stack developer, learned sound programming 
-principles &amp; methodologies, while expanding my technical skillset.
+Through the roller-coaster ride that is 
+[Makers Academy](http://www.makersacademy.com/)'s boot-camp, 
+I was trained as a full-stack developer, learned sound programming principles 
+&amp; methodologies, while expanding my technical skillset.
 
-In my spare time, I love practicing martial arts, yoga and skiing.
+I also love modding (everything from circuit design, to 3D modeling to 
+water cooling).
 
 
 ##Code Examples
@@ -213,19 +216,18 @@ ___
 ##Professional Experience
 
 ####Founder at SnowCrash (in Stealth), UK, 2013&mdash;2014
-SnowCrash is an initiative aimed at designing and building e-to-end customized personal 
-computers, addressing unique functional requirements – from developing the software 
-control applications, to hardware configuration and case modding. As part of the 
-initiative's research phase, the TearDrop customized computer prototype has been developed. 
-Project highlights:
-* Front-end interface written with Processing 2.0 programming language (Java-based)
-* Back-end drivers written in AVR-C programming language (Arduino variant of C)
-* Case Modding design and fabrication
+SnowCrash is an initiative aimed at designing and building end-to-end 
+customized personal computers, from developing the software control 
+applications, to hardware configuration and case modding. The TearDrop 
+prototype has been developed as part of the research phase:
+* Front-end interface written with Processing 2.0 (Java-based)
+* Back-end drivers written in AVR-C (Arduino variant of C)
+* Case modding design and fabrication
 
 ####QA & Project Manager at Softron Solution Ltd., UK/Israel, 2011&mdash;2012
-SOFTRON SOLUTIONS develops a white label m-commerce solution for mobile carriers, 
-providing a high conversion rate, scalable, and simply integrated system, delivering 
-targeted deal-of-the-day.
+Softron Solutions develops a white label m-commerce solution for mobile 
+carriers, providing a scalable, highly converting and simply integrated system, 
+delivering targeted deal-of-the-day.
 
 ####Teaching Fellow at Universty College London, UK, 2010&mdash;2011
 Associate of the UK Higher Education Academy (AHEA), teaching language courses 
@@ -235,10 +237,9 @@ in the Department of Hebrew and Jewish Studies
 Teaching undergraduate courses in the Department of Philosophy.
 ￼
 ####Co-Founder & COO at MTOT Insight Ltd., Israel 2000&mdash;2008
-MTOT Insight (Meta Thinking Operational Tank) develops Ideation software – 
-strategic and operational concept development systems, interoperable with 
-enterprise-wide packaged application software, collaborative working environments 
-and productivity applications.
+MTOT Insight (Meta Thinking Operational Tank) develops ideation software - 
+strategic and operational concept development systems for collaborative 
+working environments and productivity applications.
 
 
 ##Professional Training
